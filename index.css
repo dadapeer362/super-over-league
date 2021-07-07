@@ -1,0 +1,29 @@
+/* Write your code here. */
+body {
+  margin: 0;
+}
+.bg-color {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-1 {
+  color: #f8fcfa;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.img-styling {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.img-width {
+  height: 100%;
+  width: 40%;
+}
